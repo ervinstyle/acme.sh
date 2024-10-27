@@ -2,7 +2,7 @@
 
 #Author: ervinstyle
 
-ACW_URL=https://vh-72145.serverxpro.com:8083/api/acme.php
+ACW_URL=https://acw.hu:8083/api/acme.php
 # ACW_KEY=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 dns_acw_add() {
